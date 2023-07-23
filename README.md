@@ -1,5 +1,6 @@
 # Food Trucks and Breweries
 React front-end and Python back-end. Scrapes food truck events from brewery websites and displays in data table.
+<br><br>
 <a href="https://milescatlett.info/food-trucks-and-breweries/" target="_blank">Click here for a LIVE DEMO</a>
 <br>
 <h3>Python and React Dependencies</h3>
