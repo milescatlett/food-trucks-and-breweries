@@ -12,3 +12,5 @@ pip install Flask Flask-APScheduler beautifulsoup4 chromedrivermanager Flask-Cor
 <br>
 npm i material-react-table @mui/material @mui/icons-material @emotion/react @emotion/styled
 <br> 
+<h3>Details</h3>
+This project...
